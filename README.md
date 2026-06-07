@@ -6,7 +6,7 @@ Luviana Hotel Booking Website is live at https://sau123nethmini.github.io/hotel_
 
 ## Preview
 
-![Hotel Booking Screenshot](screencapture-Cake-Bakery.png)
+![Hotel Booking Screenshot](images/screencapture-Cake-Bakery.png)
 
 ## Features
 

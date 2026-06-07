@@ -4,8 +4,6 @@ A modern and elegant hotel booking website inspired by luxury resort experiences
 
 Luviana Hotel Booking Website is live at https://sau123nethmini.github.io/hotel_booking/
 
-## Preview
-
 ![Hotel Booking Screenshot](images/screencapture-Cake-Bakery.png)
 <p align="center">
   <img src="images/screencapture-hotel-booking.png" alt="Hotel Booking Website Screenshot" width="100%">
